@@ -1,3 +1,4 @@
+require 'ruby gems'
 require 'open-uri'
 require 'pry'
 require 'nokogiri'
